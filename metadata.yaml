@@ -1,0 +1,25 @@
+_repo: Maximilian-in-Mexico-A-Woman-s-Reminiscences-of-the-French-Intervention-1862-1867_5997
+creator:
+  author:
+    agent_name: Stevenson, Sara Yorke
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '1908'
+    url: http://www.gutenberg.org/2009/agents/1908
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Yorke_Stevenson#External_links
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maximilian, Emperor of Mexico, 1832-1867'
+- !lcc 'F1201'
+- !lcsh 'Mexico -- History -- European intervention, 1861-1867'
+title: 'Maximilian in Mexico: A Woman''s Reminiscences of the French Intervention
+  1862-1867'
+url: http://www.gutenberg.org/ebooks/5997
