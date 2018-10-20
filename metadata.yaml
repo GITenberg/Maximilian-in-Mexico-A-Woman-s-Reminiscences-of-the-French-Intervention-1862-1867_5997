@@ -1,5 +1,5 @@
 _repo: Maximilian-in-Mexico-A-Woman-s-Reminiscences-of-the-French-Intervention-1862-1867_5997
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Maximilian, Emperor of Mexico, 1832-1867'
 - !lcc 'F1201'
 - !lcsh 'Mexico -- History -- European intervention, 1861-1867'
+- GITenberg
 title: 'Maximilian in Mexico: A Woman''s Reminiscences of the French Intervention
   1862-1867'
 url: http://www.gutenberg.org/ebooks/5997
